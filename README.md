@@ -21,7 +21,7 @@ Check out the live demo [here](link-to-your-live-demo).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/ljb630/tic-tac-toe.git
 
 Open the index.html file in your web browser to start playing.
 Gameplay
